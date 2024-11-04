@@ -49,4 +49,4 @@ Studied market trends to identify impactful patterns.
 
 ## Dashboard
 
-You can view the published dashboard and explore the insights via this Link [https://app.powerbi.com/view?r=eyJrIjoiMzc2NWVjZDYtNzEzNC00MGU5LTg4M2UtMTljNmVlMTA0NWZkIiwidCI6IjFmNWY5Y2M5LTFhMTctNDBiMy04N2ZlLTNmNjM5NjdiNjVhNyJ9]
+ [You can view the published dashboard and explore the insights via this Link](https://project.novypro.com/1qp1nr)
